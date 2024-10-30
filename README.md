@@ -10,7 +10,7 @@
 
 ## About me:
 
- - 🌱 I’m currently learning React
+ - 🌱 I’m currently learning Typescript
  - 🔭 Right now I'm working on a React English learning flashcards app
 
 
