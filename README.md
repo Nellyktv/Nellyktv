@@ -1,23 +1,19 @@
-<h1 align="center">Hi,there 👋</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&repeat=false&width=700&height=150&lines=%E2%9C%A8My+name+is+Elena+and+I'm+a+Frontend+developer!%E2%9C%A8"
-            alt="Typing SVG" /></a></p>
+<h1 style="text-align: center;">Hi, there 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=1&pause=1000&repeat=false&width=700&height=150&lines=%E2%9C%A8My+name+is+Elena+and+I'm+a+Frontend+developer!%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="500"/>
+<div id="header" style="text-align: center;">
+  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="500" alt="Animated GIF"/>
 </div>
 
-
-   ### 📫 How to reach me:
-    <br><a href='https://t.me/nellyktv'><img
-            src='https://img.shields.io/badge/Telegram-blueviolet?style=flat&logo=telegram' width='100'
-            alt="Telegram Badge" /></a>
-    <a href='mailto:kitkaty965@gmail.com'><img
-            src='https://img.shields.io/badge/E--mail-blueviolet?style=flat&logo=maildotru' width='77' height='25'
-            alt='Email Badge' /></a>
-
-
-
+### 📫 How to reach me:
+<p style="text-align: center;">
+  <a href='https://t.me/nellyktv'><img src='https://img.shields.io/badge/Telegram-blueviolet?style=flat&logo=telegram' width='100' alt="Telegram Badge" /></a>
+  <a href='mailto:kitkaty965@gmail.com'><img src='https://img.shields.io/badge/E--mail-blueviolet?style=flat&logo=maildotru' width='77' height='25' alt='Email Badge' /></a>
+</p>
 
 ## Technologies:
 <p align="center">
@@ -31,5 +27,5 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </p>
