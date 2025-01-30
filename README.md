@@ -8,14 +8,6 @@
 </div>
 
 
-## About me:
-
- - 🌱 I’m currently learning Typescript
- - 🔭 Right now I'm working on a React English learning flashcards app
-
-
-
-
    ### 📫 How to reach me:
     <br><a href='https://t.me/nellyktv'><img
             src='https://img.shields.io/badge/Telegram-blueviolet?style=flat&logo=telegram' width='100'
