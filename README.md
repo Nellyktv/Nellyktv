@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<div id="header" style="text-align: center;">
-  <img src="[[https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif](https://usagif.com/wp-content/uploads/cat-typing-12.gif](https://usagif.com/wp-content/uploads/cat-typing-24.gif)" width="500" alt="Animated GIF"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="500" alt="Cat coding" />
 </div>
 
 ### 📫 How to reach me:
