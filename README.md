@@ -6,7 +6,7 @@
 </p>
 
 <div id="header" style="text-align: center;">
-  <img src="[https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif](https://usagif.com/wp-content/uploads/cat-typing-12.gif)" width="500" alt="Animated GIF"/>
+  <img src="[https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif](https://usagif.com/wp-content/uploads/cat-typing-12.gif" width="500" alt="Animated GIF"/>
 </div>
 
 ### 📫 How to reach me:
